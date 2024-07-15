@@ -1,5 +1,5 @@
 import java.util.*;
-public class two_dimensional_identical {
+public class Two_Dimensional_Identical {
 public static void main(String[] args) {
     Scanner sc = new Scanner(System.in);
     int row=sc.nextInt();
