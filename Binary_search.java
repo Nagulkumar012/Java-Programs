@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class searchbinary {
+public class Binary_search {
     public static void main(String[] args) {
         
         Scanner sc= new Scanner(System.in);
