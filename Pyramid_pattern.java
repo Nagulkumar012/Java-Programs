@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class pyramidpattern {
+public class Pyramid_pattern {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
